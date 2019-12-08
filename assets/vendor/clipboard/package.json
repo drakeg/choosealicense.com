@@ -26,7 +26,7 @@
     "browserify": "^11.2.0",
     "delegate": "^1.0.0",
     "select": "^1.0.0",
-    "tiny-emitter": "^1.0.0"
+    "tiny-emitter": "^2.1.0"
   },
   "devDependencies": {
     "karma": "^0.13.10",
